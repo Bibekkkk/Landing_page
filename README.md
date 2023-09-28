@@ -12,5 +12,5 @@ Language - HTML, CSS
 
 IDE - VS CODE
 
-YouTube Link - https://youtu.be/mRjUoAOKmsE
+
 #webdevelopment #intern #github #oasisinfobyte
